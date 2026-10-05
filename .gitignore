@@ -1,0 +1,5 @@
+﻿toylang.exe
+*.exe
+*.test
+*.out
+*.toy
